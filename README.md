@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/hana-ml-shiny)](https://api.reuse.software/info/github.com/SAP-samples/hana-ml-shiny)
 
 # HANA ML R Shiny App
